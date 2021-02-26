@@ -1,0 +1,71 @@
+body{
+    background-image: url(ODP/bitmap-3.png);
+    position: relative;
+}
+
+.navbar-nav > li{
+    margin-left:30px;
+    margin-right:30px;
+  }
+  .event{
+      color: white;
+      padding: 40px;
+  }
+  h1{
+      color: white;
+      padding: 40px;
+  }
+.image{
+    width: 660px;
+    height: 300px;
+    
+}
+.contact{
+    color: white;
+}
+img{
+    margin: auto;
+    width: auto;
+    height: 300px;
+}
+
+width: 700px;
+height: 300px;
+}
+.card{
+    color: black;
+    position: relative;
+    margin: 10px;
+}
+.card-img-top{
+    height: 250px;
+    padding: 5px;
+}
+form{
+    color: white;
+    margin: 10px;
+}
+section{
+    background-color: white;
+    color:black;
+    position: absolute;
+    right: 93px;
+    width: 700px;
+    padding: 20px;
+}
+main{
+    padding: 20px;
+}
+.intro{
+    padding: 20px;
+
+}
+.main-footer {
+    background-color: #34475E;
+    color: white;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
